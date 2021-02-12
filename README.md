@@ -1,1 +1,2 @@
 # SBA_HTML-CSS-JS
+The Church Manager is a digital management system for small churches. This app makes it easy for the head of the church to keep track of members and organize all things chuyrch related. The app allows for new members to be added, for them to be given a title and it collects and sotres the data. The app also allows for the user to add to the inventory and manage the churches current supplies

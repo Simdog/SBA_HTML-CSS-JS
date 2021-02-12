@@ -35,11 +35,15 @@ document.getElementById('create').onclick = function addRow() {
     newRow.append(newEmail)
     newRow.append(newTitle)
 
-    
+    var tithe = document.getElementById('titheCheck')
+    if (tithe) {
+        console.log('tithe')
+        var yesTithe = new Member('tithe', 'paid')
+        console.log(yesTithe)
+    }
 
-
-
-
-    // console.log(moreTitle)
+    console.log(moreTitle)
 }
+
+
 
