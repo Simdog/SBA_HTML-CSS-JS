@@ -1,0 +1,45 @@
+body {
+  background-color: #2d2e2f;
+  color: white;
+}
+.navbar-text {
+  color: red;
+}
+
+span.navbar-text {
+  color: red;
+}
+
+.carousel-caption {
+  color: black;
+  background-color: grey;
+  opacity: 0.8;
+  border-radius: 20px;
+
+}
+
+.container {
+  /* margin: 20px; */
+  margin-bottom: 20px;
+}
+
+#member {
+  margin-top: 20px;
+  border: solid thin white;
+  padding-bottom: 20px;
+  
+}
+
+#member-head {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+th {
+  padding: 10px;
+  
+}
+
+td {
+  border: solid lightslategray;
+}
